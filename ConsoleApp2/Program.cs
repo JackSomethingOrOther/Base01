@@ -10,7 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("This is a test of the emergency broadcast system.");
+            Console.ReadLine();
         }
     }
 }
